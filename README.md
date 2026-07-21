@@ -1,6 +1,6 @@
 Références :
 
-.
+Escofier, JP. Toute l'algèbre de la licence
 
 Knapp, A.W. Basic Algebra
 
